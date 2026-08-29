@@ -1,0 +1,8 @@
+{
+    "name": "dizidex/platform",
+    "description": "DiziDex Ecommerce Platform",
+    "type": "project",
+    "require": {
+        "php": ">=7.4"
+    }
+}
