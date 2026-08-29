@@ -1,14 +1,13 @@
 <?php
 require_once 'config/database.php';
-// We're keeping it simple. Product details are conceptually loaded from DB.
 ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Microsoft Office 2024 + Windows 11 Pro | DiziDex</title>
-    <meta name="description" content="Get Microsoft Office 2024 Professional Plus and Windows 11 Pro with instant digital access, installation assistance and 24/7 support from DiziDex.">
+    <title>Ms office 2024 professional and WIndows 11pro | DiziDex</title>
+    <meta name="description" content="Get Ms office 2024 professional and WIndows 11pro with instant digital access, installation assistance and 24/7 support from DiziDex.">
     <link rel="stylesheet" href="assets/css/style.css">
     
     <!-- Meta Pixel Code -->
@@ -30,14 +29,13 @@ require_once 'config/database.php';
 <body>
     <header>
         <div class="logo">
-            <!-- Ensure you place the dizidex logo in assets/images/logo.png -->
             <img src="assets/images/logo.png" alt="DiziDex Logo">
         </div>
         <nav>
             <ul>
                 <li><a href="#features">Features</a></li>
                 <li><a href="#includes">What's Included</a></li>
-                <li><a href="#reviews">Reviews</a></li>
+                <li><a href="#activation">Activation Process</a></li>
                 <li><a href="#faq">FAQ</a></li>
             </ul>
         </nav>
@@ -47,23 +45,23 @@ require_once 'config/database.php';
     <section class="hero">
         <div class="hero-content">
             <span class="badge">DiziDex Digital Product</span>
-            <h1>Office 2024 + Windows 11 Pro — Just ₹99</h1>
-            <p>Get instant access to Office 2024 Professional Plus and Windows 11 Pro with installation assistance and customer support.</p>
+            <h1>Ms office 2024 professional and WIndows 11pro</h1>
+            <p>Get instant access to Office 2024 Professional Plus and Windows 11 Pro with installation assistance and professional customer support.</p>
             <div class="price">₹99</div>
             <div class="offer-tags">
                 <span class="offer-tag">ONE-TIME PAYMENT</span>
                 <span class="offer-tag">LIFETIME VALIDITY</span>
             </div>
             <a href="https://superprofile.bio/vp/ms-office-and-windows?checkout=true" class="btn-primary buy-btn">GET IT NOW — ₹99</a>
-            <p style="font-size: 0.875rem; margin-top: 1rem; opacity: 0.8;">Instant digital access • Secure checkout • 24/7 support</p>
+            <p style="font-size: 0.85rem; margin-top: 1rem; color: var(--text-muted);">Instant digital access • Secure checkout • 24/7 support</p>
         </div>
         <div class="hero-image">
-            <img src="assets/images/product.png" alt="Office 2024 + Windows 11 Pro">
+            <img src="assets/images/product.png" alt="Ms office 2024 professional and WIndows 11pro">
         </div>
     </section>
 
-    <section id="trust" style="background: white; padding: 2rem 5%; text-align: center; border-bottom: 1px solid #e5e7eb;">
-        <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 2rem; color: var(--primary-navy); font-weight: 500;">
+    <section id="trust" style="background: var(--white); padding: 2rem 5%; text-align: center; border-bottom: 1px solid var(--border-color);">
+        <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 2.5rem; color: var(--text-muted); font-size: 0.95rem; font-weight: 500;">
             <span>✓ Instant Digital Delivery</span>
             <span>✓ Secure Checkout</span>
             <span>✓ 24/7 Support</span>
@@ -72,67 +70,78 @@ require_once 'config/database.php';
         </div>
     </section>
 
+    <section id="activation" class="before-after-section">
+        <h2 class="section-title">See the Difference Before and After Activation</h2>
+        <p style="color: var(--text-muted); font-size: 1.1rem; max-width: 600px; margin: 0 auto;">Easily activate your software for full lifetime access. No more annoying pop-ups or missing features.</p>
+        <div style="max-width: 900px; margin: 0 auto;">
+            <img src="assets/images/before-after.png" alt="Before and After Activation">
+        </div>
+    </section>
+
     <section id="includes">
         <h2 class="section-title">What's Included</h2>
         <div class="grid-3">
             <div class="card">
                 <h3>Office 2024 Apps</h3>
-                <p>Word, Excel, PowerPoint, Outlook, Access, OneNote.</p>
+                <p>Full suite including Word, Excel, PowerPoint, Outlook, Access, and OneNote.</p>
             </div>
             <div class="card">
                 <h3>Windows 11 Pro</h3>
-                <p>Upgrade your system with the latest features.</p>
+                <p>Upgrade your operating system with the latest professional features.</p>
             </div>
             <div class="card">
                 <h3>OneDrive</h3>
-                <p>Cloud storage integration.</p>
+                <p>Cloud storage integration for seamless document syncing.</p>
             </div>
         </div>
     </section>
 
-    <section id="benefits" style="background: var(--white);">
+    <section id="benefits" style="background: var(--bg-light);">
         <h2 class="section-title">Why Choose Us</h2>
         <div class="grid-3">
             <div class="card">
                 <h3>LIFETIME VALIDITY</h3>
-                <p>One-time purchase with no recurring monthly or yearly charges.</p>
+                <p>One-time purchase with no recurring monthly or yearly subscription charges.</p>
             </div>
             <div class="card">
                 <h3>INSTANT ACCESS</h3>
-                <p>Get access to the digital product after successful payment.</p>
+                <p>Get access to your digital product instructions immediately after successful payment.</p>
             </div>
             <div class="card">
                 <h3>INSTALLATION HELP</h3>
-                <p>Don't know how to install? Our support team can help.</p>
+                <p>Don't know how to install? Our expert support team can guide you step by step.</p>
             </div>
         </div>
-        <div style="text-align: center; margin-top: 3rem;">
+        <div style="text-align: center; margin-top: 3.5rem;">
              <a href="https://superprofile.bio/vp/ms-office-and-windows?checkout=true" class="btn-primary buy-btn">GET IT NOW — ₹99</a>
         </div>
     </section>
 
     <section id="how-it-works">
         <h2 class="section-title">How It Works</h2>
-        <div class="grid-3 text-center">
+        <div class="grid-3 text-center" style="text-align: center;">
             <div>
-                <h1 style="color: var(--accent-cyan); font-size: 3rem; margin: 0;">01</h1>
-                <h3>Choose the product</h3>
+                <div style="color: var(--primary-blue); font-size: 2.5rem; font-weight: bold; margin-bottom: 0.5rem;">01</div>
+                <h3 style="color: var(--primary-navy); margin-bottom: 0.5rem;">Choose the product</h3>
+                <p style="color: var(--text-muted); font-size: 0.95rem;">Select your software package.</p>
             </div>
             <div>
-                <h1 style="color: var(--accent-cyan); font-size: 3rem; margin: 0;">02</h1>
-                <h3>Complete secure checkout</h3>
+                <div style="color: var(--primary-blue); font-size: 2.5rem; font-weight: bold; margin-bottom: 0.5rem;">02</div>
+                <h3 style="color: var(--primary-navy); margin-bottom: 0.5rem;">Complete secure checkout</h3>
+                <p style="color: var(--text-muted); font-size: 0.95rem;">Pay securely via our trusted payment gateway.</p>
             </div>
             <div>
-                <h1 style="color: var(--accent-cyan); font-size: 3rem; margin: 0;">03</h1>
-                <h3>Receive your digital access</h3>
+                <div style="color: var(--primary-blue); font-size: 2.5rem; font-weight: bold; margin-bottom: 0.5rem;">03</div>
+                <h3 style="color: var(--primary-navy); margin-bottom: 0.5rem;">Receive access</h3>
+                <p style="color: var(--text-muted); font-size: 0.95rem;">Check your email for digital instructions.</p>
             </div>
         </div>
-        <p style="text-align: center; margin-top: 2rem;">Need help installing? Contact our support team.</p>
+        <p style="text-align: center; margin-top: 3rem; color: var(--text-muted);">Need help installing? Contact our support team at contact@dizidex.com.</p>
     </section>
 
-    <section id="faq" style="background: var(--white);">
+    <section id="faq" style="background: var(--bg-light);">
         <h2 class="section-title">Frequently Asked Questions</h2>
-        <div style="max-width: 800px; margin: 0 auto;">
+        <div style="max-width: 700px; margin: 0 auto;">
             <div class="faq-item">
                 <div class="faq-question">Is this a real product? <span>+</span></div>
                 <div class="faq-answer">Yes. DiziDex provides digital software products and access instructions. After successful payment, you receive the relevant digital delivery and instructions. If you need help with installation, our support team can assist you.</div>
@@ -148,16 +157,16 @@ require_once 'config/database.php';
         </div>
     </section>
 
-    <section class="offer" style="text-align: center; background: #e0f2fe; padding: 4rem 5%;">
-        <h2>Get Office 2024 + Windows 11 Pro for ₹99</h2>
-        <p style="font-size: 1.5rem; font-weight: bold;">₹99</p>
-        <p>One-time payment • Lifetime validity</p>
-        <a href="https://superprofile.bio/vp/ms-office-and-windows?checkout=true" class="btn-primary buy-btn" style="font-size: 1.25rem; padding: 1rem 2rem;">GET IT NOW</a>
+    <section class="offer" style="text-align: center; background: var(--primary-navy); color: var(--white); padding: 5rem 5%;">
+        <h2 style="color: var(--white); font-size: 2rem; margin-bottom: 1rem;">Get Ms office 2024 professional and WIndows 11pro</h2>
+        <p style="font-size: 2.5rem; font-weight: bold; margin: 1rem 0; color: var(--white);">₹99</p>
+        <p style="color: #94a3b8; margin-bottom: 2rem;">One-time payment • Lifetime validity</p>
+        <a href="https://superprofile.bio/vp/ms-office-and-windows?checkout=true" class="btn-primary buy-btn" style="font-size: 1.1rem; padding: 1rem 2.5rem;">GET IT NOW</a>
     </section>
 
     <footer>
         <h2>DiziDex</h2>
-        <p>Digital Products Made Simple.</p>
+        <p style="margin-bottom: 2rem;">Digital Products Made Simple.</p>
         <p>
             <a href="/">Home</a> | 
             <a href="/about.php">About Us</a> | 
@@ -166,8 +175,7 @@ require_once 'config/database.php';
             <a href="/terms.php">Terms & Conditions</a> | 
             <a href="/refund.php">Refund Policy</a>
         </p>
-        <p>Email: contact@dizidex.com</p>
-        <p>&copy; 2026 DiziDex. All rights reserved.</p>
+        <p style="margin-top: 2rem; font-size: 0.8rem;">&copy; 2026 DiziDex. All rights reserved.</p>
     </footer>
 
     <div class="floating-cta">
