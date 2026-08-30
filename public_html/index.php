@@ -89,10 +89,7 @@ require_once 'config/database.php';
                 <h3>Windows 11 Pro</h3>
                 <p>Upgrade your operating system with the latest professional features.</p>
             </div>
-            <div class="card">
-                <h3>OneDrive</h3>
-                <p>Cloud storage integration for seamless document syncing.</p>
-            </div>
+            
         </div>
     </section>
 
