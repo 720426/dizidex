@@ -210,7 +210,7 @@ require_once 'config/database.php';
     </footer>
 
     <div class="floating-cta">
-        <a href="https://superprofile.bio/vp/ms-office-and-windows?checkout=true" class="btn-primary buy-btn">GET IT NOW — ₹99</a>
+        <a href="https://superprofile.bio/vp/ms-office-and-windows?checkout=true" class="btn-primary buy-btn">GET IT NOW ₹99</a>
     </div>
 
     <script src="assets/js/main.js"></script>
