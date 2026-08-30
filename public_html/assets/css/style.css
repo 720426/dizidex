@@ -37,7 +37,7 @@ header {
 }
 
 .logo img {
-    height: 30px; /* Smaller logo */
+    height: 42px; /* Increased logo size */
 }
 
 nav ul {
@@ -109,7 +109,7 @@ nav a:hover {
     flex: 1;
     text-align: center;
     order: 2; /* Image second */
-    margin-bottom: 1.5rem;
+    margin-bottom: 0.5rem; /* Reduced spacing */
     width: 100%;
 }
 
@@ -126,9 +126,9 @@ nav a:hover {
 }
 
 .price {
-    font-size: 2.5rem;
+    font-size: 2.2rem;
     font-weight: 800;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.2rem; /* Reduced spacing */
     color: #111827;
 }
 
@@ -143,7 +143,7 @@ nav a:hover {
 .offer-tags {
     display: flex;
     gap: 0.5rem;
-    margin-bottom: 1.5rem;
+    margin-bottom: 0.8rem; /* Reduced spacing */
     justify-content: center;
     flex-wrap: wrap;
 }
@@ -160,11 +160,12 @@ nav a:hover {
 
 .btn-primary.buy-btn.pulse {
     animation: pulse 2s infinite;
-    width: 100%;
-    max-width: 400px;
-    font-size: 1.2rem;
-    padding: 1rem;
+    width: 90%; /* A little big, not full */
+    max-width: 320px;
+    font-size: 1.1rem;
+    padding: 0.8rem 1.5rem;
     border-radius: 8px;
+    margin: 0 auto;
 }
 
 @keyframes pulse {

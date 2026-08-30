@@ -57,7 +57,7 @@ require_once 'config/database.php';
                 <span class="offer-tag">LIFETIME VALIDITY</span>
                 <span class="offer-tag">INSTANT ACCESS</span>
             </div>
-            <a href="https://superprofile.bio/vp/ms-office-and-windows?checkout=true" class="btn-primary buy-btn pulse">GET IT NOW — ₹99</a>
+            <a href="https://superprofile.bio/vp/ms-office-and-windows?checkout=true" class="btn-primary buy-btn pulse">GET IT NOW ₹99</a>
             <div style="margin-top: 1rem; color: #16a34a; font-weight: 600; font-size: 0.9rem; display: flex; justify-content: center; align-items: center; gap: 0.5rem;">
                 <svg width="20" height="20" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg>
                 100% Safe & Secure Checkout
@@ -115,7 +115,7 @@ require_once 'config/database.php';
             </div>
         </div>
         <div style="text-align: center; margin-top: 3.5rem;">
-             <a href="https://superprofile.bio/vp/ms-office-and-windows?checkout=true" class="btn-primary buy-btn">GET IT NOW — ₹99</a>
+             <a href="https://superprofile.bio/vp/ms-office-and-windows?checkout=true" class="btn-primary buy-btn">GET IT NOW ₹99</a>
         </div>
     </section>
 
@@ -166,7 +166,7 @@ require_once 'config/database.php';
             </div>
         </div>
         <div style="text-align: center; margin-top: 2rem;">
-             <a href="https://superprofile.bio/vp/ms-office-and-windows?checkout=true" class="btn-primary buy-btn pulse">GET IT NOW — ₹99</a>
+             <a href="https://superprofile.bio/vp/ms-office-and-windows?checkout=true" class="btn-primary buy-btn pulse">GET IT NOW ₹99</a>
         </div>
     </section>
 
