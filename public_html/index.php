@@ -9,6 +9,7 @@ require_once 'config/database.php';
     <title>Ms office 2024 professional and WIndows 11pro | DiziDex</title>
     <meta name="description" content="Get Ms office 2024 professional and WIndows 11pro with instant digital access, installation assistance and 24/7 support from DiziDex.">
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="icon" type="image/png" href="/assets/images/logo.png">
     
     <!-- Meta Pixel Code -->
     <script>
