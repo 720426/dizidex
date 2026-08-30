@@ -52,7 +52,7 @@ require_once 'config/database.php';
             <img src="assets/images/product.png" alt="Ms office 2024 professional and WIndows 11pro">
         </div>
         <div class="hero-action">
-            <div class="price">₹99 <span>₹2,999</span></div>
+            <div class="price">₹99</div>
             <div class="offer-tags">
                 <span class="offer-tag">LIFETIME VALIDITY</span>
                 <span class="offer-tag">INSTANT ACCESS</span>
