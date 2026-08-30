@@ -44,19 +44,23 @@ require_once 'config/database.php';
 
     <section class="hero">
         <div class="hero-content">
-            <span class="badge">DiziDex Digital Product</span>
+            <span class="badge" style="background: #fee2e2; color: #dc2626; font-weight: bold; margin-bottom: 0.5rem; display: inline-block; padding: 0.3rem 0.8rem; border-radius: 4px; text-transform: uppercase; font-size: 0.75rem;">⚡ Flash Sale Ends Soon</span>
             <h1>Ms office 2024 professional and WIndows 11pro</h1>
-            <p>Get instant access to Office 2024 Professional Plus and Windows 11 Pro with installation assistance and professional customer support.</p>
-            <div class="price">₹99</div>
-            <div class="offer-tags">
-                <span class="offer-tag">ONE-TIME PAYMENT</span>
-                <span class="offer-tag">LIFETIME VALIDITY</span>
-            </div>
-            <a href="https://superprofile.bio/vp/ms-office-and-windows?checkout=true" class="btn-primary buy-btn">GET IT NOW — ₹99</a>
-            <p style="font-size: 0.85rem; margin-top: 1rem; color: var(--text-muted);">Instant digital access • Secure checkout • 24/7 support</p>
         </div>
         <div class="hero-image">
             <img src="assets/images/product.png" alt="Ms office 2024 professional and WIndows 11pro">
+        </div>
+        <div class="hero-action">
+            <div class="price">₹99 <span>₹2,999</span></div>
+            <div class="offer-tags">
+                <span class="offer-tag">LIFETIME VALIDITY</span>
+                <span class="offer-tag">INSTANT ACCESS</span>
+            </div>
+            <a href="https://superprofile.bio/vp/ms-office-and-windows?checkout=true" class="btn-primary buy-btn pulse">GET IT NOW — ₹99</a>
+            <div style="margin-top: 1rem; color: #16a34a; font-weight: 600; font-size: 0.9rem; display: flex; justify-content: center; align-items: center; gap: 0.5rem;">
+                <svg width="20" height="20" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg>
+                100% Safe & Secure Checkout
+            </div>
         </div>
     </section>
 
@@ -134,6 +138,35 @@ require_once 'config/database.php';
             </div>
         </div>
         <p style="text-align: center; margin-top: 3rem; color: var(--text-muted);">Need help installing? Contact our support team at contact@dizidex.com.</p>
+    </section>
+
+    <section id="reviews" style="background: var(--white);">
+        <h2 class="section-title">What Our Customers Say</h2>
+        <div style="text-align: center; margin-bottom: 2rem;">
+            <div style="font-size: 2.5rem; font-weight: bold; color: var(--text-dark);">4.9/5</div>
+            <div class="stars" style="font-size: 1.5rem;">★★★★★</div>
+            <div style="color: var(--text-muted); font-size: 0.9rem;">Based on 1,000+ verified purchases</div>
+        </div>
+        <div class="grid-3">
+            <div class="review-card">
+                <div class="stars">★★★★★</div>
+                <p>"Instantly received the instructions and download link. Very easy to follow and the support team helped me when I got stuck. Highly recommend!"</p>
+                <div class="reviewer-name">Rahul S. <span style="color: #16a34a; font-size: 0.8rem; font-weight: normal; margin-left: 0.5rem;">✓ Verified Buyer</span></div>
+            </div>
+            <div class="review-card">
+                <div class="stars">★★★★★</div>
+                <p>"Best purchase I've made for my new laptop. Works perfectly and I didn't have to pay a crazy subscription fee."</p>
+                <div class="reviewer-name">Priya K. <span style="color: #16a34a; font-size: 0.8rem; font-weight: normal; margin-left: 0.5rem;">✓ Verified Buyer</span></div>
+            </div>
+            <div class="review-card">
+                <div class="stars">★★★★★</div>
+                <p>"Legit product. Was skeptical about the price but everything works seamlessly. Windows 11 Pro is a great upgrade."</p>
+                <div class="reviewer-name">Amit V. <span style="color: #16a34a; font-size: 0.8rem; font-weight: normal; margin-left: 0.5rem;">✓ Verified Buyer</span></div>
+            </div>
+        </div>
+        <div style="text-align: center; margin-top: 2rem;">
+             <a href="https://superprofile.bio/vp/ms-office-and-windows?checkout=true" class="btn-primary buy-btn pulse">GET IT NOW — ₹99</a>
+        </div>
     </section>
 
     <section id="faq" style="background: var(--bg-light);">
